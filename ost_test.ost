@@ -9,6 +9,6 @@ n = 6
 6 INTENSITY_RATIO_FALL_HOLD 0.9666 0.004 {} # Detect the offset of \z\
 8 INTENSITY_RISE_HOLD 0.01 0.020 {} # Detect the onset of \a\
 10 INTENSITY_FALL 0.01 0.0250 {} # Detect the onset \a\
-14 OST_END NaN NaN {}
+12 OST_END 
 
 n = 0
